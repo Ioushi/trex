@@ -149,7 +149,7 @@ nuven.depth = 1
 trex.depth = 5
 game0.depth = 7
 rest.depth = 7
-nuven.lifetime=100
+nuven.lifetime=400
 gn.add(nuven)
 
 }
@@ -178,7 +178,7 @@ default:break
   }
   cactos.scale = 0.54151616541651546456165
   gc.add(cactos)
-  cactos.lifetime=200
+  cactos.lifetime=400
   cactos.depth = 1
   }
 }
